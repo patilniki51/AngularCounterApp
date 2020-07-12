@@ -4,7 +4,17 @@ body {
     padding: 0;
     box-sizing: border-box;
     background-size: cover;
-    width: auto;
-    background-image: url("/assets/image.jpg");
-    background-position: top;
+    width: 100%;
+    height: 100%;
+    background-image: url("/assets/countdown.jpg");
+    background-position: center;
+}
+  /* body{
+	color:black;
+    background: url("/assets/countdown.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position: center;
+    background-size:100% 100%; 
   }
+*/
